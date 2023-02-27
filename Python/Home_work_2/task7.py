@@ -17,3 +17,10 @@ for i in range(N):
             stop = 1
     else:
         i = N
+
+# # Эталонное решение
+# n = int(input())
+# i = 0
+# while 2 ** i <= n:
+#     print(2 ** i)
+#     i += 1
