@@ -102,10 +102,10 @@
 # if condition3 or condition4: # выполнится, когда хотя бы одно из условий окажется верным
 # # operator
 
-# # Цикл While
+# Цикл While
 # n = 423
 # summa = 0
-# while summa > 0:
+# while n > 0:
 #     x = n % 10
 #     summa = summa + x
 #     n = n // 10
@@ -125,7 +125,7 @@
 # # Пример программного кода без использования break:
 # n = 423
 # summa = 0
-# while summa > 0:
+# while n > 0:
 #     x = n % 10
 #     summa = summa + x
 #     n = n // 10
